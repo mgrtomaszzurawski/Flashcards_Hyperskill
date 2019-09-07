@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FlashcardsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-09-07T19:57:53" hostname="DESKTOP-NROB79L" time="0.344">
+  <properties/>
+  <testcase name="start" classname="FlashcardsTest" time="0.344"/>
+  <system-out><![CDATA[Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+File name:
+0 cards have been saved.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+File name:
+0 cards have been saved.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+Bye bye!
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+The card:
+The definition of the card:
+The pair ("France":"Paris") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+The card:
+The definition of the card:
+The pair ("Russia":"Moscow") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+How many times to ask?
+Print the definition of "France":
+Wrong answer (the correct one is "Paris").
+Print the definition of "France":
+Wrong answer (the correct one is "Paris").
+Print the definition of "Russia":
+Wrong answer (the correct one is "Moscow").
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+Bye bye!
+2 cards have been saved.
+2 cards have been loaded.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+The card:
+The definition of the card:
+The pair ("Japan":"Tokyo") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+How many times to ask?
+Print the definition of "France":
+Wrong answer (the correct one is "Paris", you've just written the definition of "Russia".)
+Print the definition of "Japan":
+Wrong answer (the correct one is "Tokyo", you've just written the definition of "France".)
+Print the definition of "Japan":
+Correct answer. 
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+Bye bye!
+3 cards have been saved.
+3 cards have been loaded.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+How many times to ask?
+Print the definition of "Russia":
+Correct answer. 
+Print the definition of "France":
+Correct answer. 
+Print the definition of "Russia":
+Wrong answer (the correct one is "Moscow", you've just written the definition of "Japan".)
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+The card:
+The card has been removed.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+Bye bye!
+2 cards have been saved.
+2 cards have been loaded.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+Bye bye!
+]]></system-out>
+  <system-err><![CDATA[Start test 1
+Start test 2
+Start test 3
+Start test 4
+Start test 5
+]]></system-err>
+</testsuite>
