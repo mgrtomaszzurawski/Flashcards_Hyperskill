@@ -1,4 +1,6 @@
 # Flashcards_Hyperskill
-This is one of my completed educational project from hyperskill.org
+##This is one of my completed educational project from hyperskill.org
 
-My statistic from hyperskill.org are at file Gyperskill_My_profile.jpg
+##My statistic at hyperskill.org from December 2019
+
+![hyperskill_statistic](https://github.com/mgrtomaszzurawski/Flashcards_Hyperskill/blob/master/Hyperskill_My_profile.jpg)
